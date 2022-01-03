@@ -1,18 +1,16 @@
-# Create React App Redezine Facebook LandPage.
+*Clone do Facebook em ReactJs*
 
 > Status do Projeto: Concluido :heavy_check_mark:
 
-<h1>🚀 Sobre o desafio<p>
+**🚀 Sobre o desafio**
 
-<p>Crie uma aplicação do zero utilizando Webpack, Babel, Webpack Dev Server e ReactJS.<p>
+1. Crie uma aplicação do zero utilizando Webpack, Babel, Webpack Dev Server e ReactJS.
+2. Nessa aplicação você irá desenvolver uma interface semelhante com a do Facebook utilizando React.
+3. As informações contidas na interface são estáticas e não precisam refletir nenhuma API REST ou back-end.
 
-<p>Nessa aplicação você irá desenvolver uma interface semelhante com a do Facebook utilizando React.<p>
+**Tela da aplicação**
 
-<p>As informações contidas na interface são estáticas e não precisam refletir nenhuma API REST ou back-end.<p>
-
-#Tela da aplicação
-
-<img src="./src/assets/image/newfacebook.png"/>
+<img src="../src/assets/image/newfacebook.png"/>
 
 
 ## Objetivo :checkered_flag:
