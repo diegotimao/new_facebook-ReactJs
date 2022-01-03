@@ -8,10 +8,6 @@
 2. Nessa aplicação você irá desenvolver uma interface semelhante com a do Facebook utilizando React.
 3. As informações contidas na interface são estáticas e não precisam refletir nenhuma API REST ou back-end.
 
-**Tela da aplicação**
-
-<img src="../src/assets/image/newfacebook.png"/>
-
 
 ## Objetivo :checkered_flag:
 
